@@ -1,0 +1,7 @@
+title: Mark Ayers
+baseURL: https://cv.philoserf.com/
+languageCode: en-us
+
+module:
+  imports:
+    - path: github.com/ineesalmeida/almeida-cv

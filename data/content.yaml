@@ -1,0 +1,174 @@
+BasicInfo:
+  FirstName: Mark
+  LastName: Ayers
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: <a class="contact__link" href="tel:+12062804061" target="_blank">+1 206 280 4061</a>
+    - Icon: fas fa-envelope
+      Info: <a class="contact__link" href="mailto:mark@philoserf.com" target="_blank">mark@philoserf.com</a>
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://philoserf.com" target="_blank">philoserf.com</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Grand Rapids, Michigan
+
+Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Experience:
+  - Employer: Hypori
+    Place: Austin, TX
+    Positions:
+      - Title: Senior Site Reliability Engineer
+        Date: 01/2023–Present
+        Details:
+          - placeholder
+          - placeholder
+        Badges:
+          [
+            "Terraform",
+            "Azure",
+            "AWS",
+            "Kubernetes",
+            "Bash",
+            "Python",
+            "Java",
+            "Jenkins",
+            "Artifiactory",
+          ]
+  - Employer: Subsplash
+    Place: Remote
+    Positions:
+      - Title: Senior Site Reliability Engineer
+        Date: 08/2020–11/2022
+        Details:
+          - placeholder
+          - placeholder
+        Badges:
+          [
+            "Kubernetes",
+            "GitLab",
+            "AWS",
+            "Terraform",
+            "Helm",
+            "Go",
+            "Bash",
+            "Python",
+          ]
+  - Employer: Nordstrom
+    Place: Seattle, WA
+    Positions:
+      - Title: Senior Site Reliability Engineer
+        Date: 02/2019–06/2020
+        Details:
+          - placeholder
+          - placeholder
+        Badges: ["New Relic", "Datadog", "Splunk", "AWS", "Go", "Java", Nginx]
+  - Employer: Samsung SDS America
+    Place: Seattle, WA
+    Positions:
+      - Title: Senior Staff Engineer
+        Date: 10/2017–02/2019
+        Details:
+          - placeholder
+          - placeholder
+        Badges: ["Kubernetes", "Go"]
+  - Employer: Nordstrom
+    Place: Seattle, WA
+    Positions:
+      - Title: Senior Software Engineer
+        Date: 10/2014–10/2017
+        Details:
+          - placeholder
+          - placeholder
+        Badges: ["Mobile API", "Go", "AWS", "CloudFormation"]
+  - Employer: The Walt Disney Company
+    Place: Seattle, WA
+    Positions:
+      - Title: Senior Systems Administrator
+        Date: 01/2012–10/2014
+        Details:
+          - placeholder
+          - placeholder
+        Badges: ["New Relic", "Chef", "Performance Testing", "Reliability"]
+  - Employer: available upon request
+  - Employer: The United States Army
+    Place: Various
+    Positions:
+      - Title: Artillery Officer
+        Date: 1988–1992
+        Details:
+          - ranger school graduate
+          - classified NATO assignment
+          - 1/11th Field Artillery, 9th Infantry Division, Fort Lewis, WA
+  - Employer: The United States Army
+    Place: Various
+    Positions:
+      - Title: Airborne Infantryman
+        Date: 1980–1984
+        Details:
+          - 4/325th Infantry, 9th Infantry Division, Fort Lewis, WA
+          - 1/509th Airborne Battalion Combat Team, Italy
+
+Education:
+  - Course: Bachelor of Arts in Political Science
+    Place: The University at Albany, State University of New York
+    Date: 1984-1988
+    Details: Minor in Economics, ROTC Detachment Commander, Student Council Representative, Army National Guard 10th Mountain Division
+
+# References:
+#   - Name: placeholder
+#     Relation: placeholder
+#     Contacts:
+#     - Icon: fas fa-phone
+#       Info: placeholder
+#     - Icon: fas fa-envelope
+#       Info: placeholder@placeholder.com
+#     - Icon: fas fa-map-marker-alt
+#       Info: placeholder, placeholder
+#   - Name: placeholder
+#     Relation: placeholder
+#     Contacts:
+#     - Icon: fas fa-phone
+#       Info: placeholder
+#     - Icon: fas fa-envelope
+#       Info: placeholder@placeholder.com
+#     - Icon: fas fa-map-marker-alt
+#       Info: placeholder, placeholder
+
+Skills:
+  - Family: Languages
+    Items:
+      - Bash
+      - Go
+      - Python
+      - YAML
+      - Terraform
+      - CloudFormation
+
+  - Family: Clouds
+    Items:
+      - AWS
+      - Azure
+      - Kubernetes
+
+  - Family: Tools
+    Items:
+      -
+
+Languages:
+  - Name: English
+    Level: Native
+  - Name: Italian
+    Level: ILR-1
+  - Name: Spanish
+    Level: ILR-0
+  - Name: Turkish
+    Level: IRL-0
+  - Name: Arabic
+    Level: IRL-0
+
+Interests:
+  - backpacking
+  - snowshoeing
+  - craft cocktails
+  - mead making
