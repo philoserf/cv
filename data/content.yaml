@@ -157,9 +157,9 @@ Skills:
       - Azure
       - Kubernetes
 
-  - Family: Tools
-    Items:
-      -
+  # - Family: Tools
+  #   Items:
+  #     -
 
 Languages:
   - Name: English
