@@ -21,8 +21,7 @@ Experience:
       - Title: Senior Site Reliability Engineer
         Date: 01/2023–Present
         Details:
-          - Technical Lead for Reliability; SaaS, private cloud, and on-premises deployments
-          - Improving platform automation in support of development and testing
+          - Technical Lead for Reliability in SaaS, private cloud, and on-premises deployments. Improving platform automation to support development and testing.
         Badges:
           [
             "Terraform",
@@ -41,8 +40,7 @@ Experience:
       - Title: Senior Site Reliability Engineer
         Date: 08/2020–11/2022
         Details:
-          - Lead Kubernetes cluster stabilization in support of migration from EC2 to EKS, growth in customer traffic, and new services
-          - Lead improvement for CI/CD pipelines on GitLab for backend, frontend, and supporting services
+          - Led Kubernetes cluster stabilization for migration to EKS, accommodated traffic growth, and new services. Improved CI/CD pipelines on GitLab for backend, frontend, and supporting services.
         Badges:
           [
             "Kubernetes",
@@ -60,10 +58,10 @@ Experience:
       - Title: Senior Site Reliability Engineer
         Date: 02/2019–06/2020
         Details:
-          - Ensured Nordstrom.com was reliable, available, and supportable with an emphasis on peek shopping periods
-          - Developed internal design standards for new and legacy systems
-          - Embedding with development teams to achieve reliable, available, and supportable services
-          - Improved reliability of systems supporting the retail stores
+          - Ensured Nordstrom.com was reliable, available, and supportable during peak shopping periods.
+          - Developed internal design standards for both new and legacy systems.
+          - Collaborated with development teams to achieve reliable, available, and supportable services.
+          - Improved the reliability of systems that supported the retail stores.
         Badges: ["New Relic", "Datadog", "Splunk", "AWS", "Go", "Java", Nginx]
   - Employer: Samsung SDS America
     Place: Seattle, WA
@@ -71,8 +69,7 @@ Experience:
       - Title: Senior Staff Engineer
         Date: 10/2017–02/2019
         Details:
-          - Research and development on the Kubernetes platform for the Cloud Native Computing Team
-          - Focussed on operational issues faced as enterprises distribute Kubernetes-based workloads across cloud providers and within their data centers
+          - Research and development on Kubernetes for the Cloud Native Computing Team, with a focus on operational issues encountered as enterprises deploy Kubernetes-based workloads across cloud providers and within their data centers.
         Badges: ["Kubernetes", "Go"]
   - Employer: Nordstrom
     Place: Seattle, WA
@@ -80,11 +77,11 @@ Experience:
       - Title: Senior Software Engineer
         Date: 10/2014–10/2017
         Details:
-          - Created continuous delivery processes for restful APIs with CI/CD into AWS
-          - Pair programmed with Kanban flow in Golang, Shell, Ruby, and, when required, Powershell and C#
-          - Designed, developed, delivered, and supported our code and its infrastructure
-          - Responsible for e-commerce PCI systems
-          - Explored Docker/Kubernetes for future containerized service delivery
+          - Developed continuous delivery processes for restful APIs, integrating them with CI/CD into AWS.
+          - Collaborated with my team in Kanban flow, using Golang, Shell, Ruby, and, when needed, Powershell and C#.
+          - Designed, developed, delivered, and provided support for our code and its infrastructure.
+          - Responsible for managing e-commerce PCI systems.
+          - Explored Docker/Kubernetes for future containerized service delivery.
         Badges: ["Mobile API", "Go", "AWS", "CloudFormation"]
   - Employer: The Walt Disney Company
     Place: Seattle, WA
@@ -92,9 +89,9 @@ Experience:
       - Title: Senior Systems Administrator
         Date: 01/2012–10/2014
         Details:
-          - Configuration management of Redhat and Windows hosts with Ruby, Chef, Chefspec, Test-Kitchen, git, Vagrant, Jenkins, and Github
-          - Management of web systems built on Java, Glassfish, Tomcat, Memcached, Varnish cache, F5 GTM/LTM, and CDN
-          - Monitoring of web systems with New Relic, Solarwinds Orion APM, HP Sitescope, Zenoss, Keynote, and Circonus
+          - Managed configurations of Redhat and Windows hosts using various tools such as Ruby, Chef, Chefspec, Test-Kitchen, git, Vagrant, Jenkins, and Github.
+          - Oversaw web systems built on Java, Glassfish, Tomcat, Memcached, Varnish cache, F5 GTM/LTM, and CDN.
+          - Monitored web systems through the use of various tools such as New Relic, Solarwinds Orion APM, HP Sitescope, Zenoss, Keynote, and Circonus.
         Badges: ["New Relic", "Chef", "Performance Testing", "Reliability"]
   - Employer: available upon request
   - Employer: The United States Army
