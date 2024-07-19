@@ -15,11 +15,13 @@ BasicInfo:
 # Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 Experience:
+  - Employer: None
+    Date: 05/2024–present
   - Employer: Hypori
     Place: Austin, TX
     Positions:
       - Title: Senior Site Reliability Engineer
-        Date: 01/2023–Present
+        Date: 01/2023–05/2024
         Details:
           - Technical Lead for Reliability in SaaS, private cloud, and on-premises deployments. Improving platform automation to support development and testing.
         Badges:
